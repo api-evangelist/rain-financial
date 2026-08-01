@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+source: https://status.rain.com/
+versioning: null
+deprecation: null
+sla: null
+status_page: https://status.rain.com/
+status_page_feed: https://status.rain.com/history.rss
+status_components:
+- API
+- Website
+- Mobile
+- Rain Pro
+notes: >-
+  Rain publishes a public Atlassian-style status page (status.rain.com) tracking
+  four operational components (API, Website, Mobile, Rain Pro) with 90-day uptime
+  history and email/SMS/Slack/RSS incident subscriptions. No public versioning or
+  deprecation policy was found; Rain publishes no public OpenAPI on rain.com, so no
+  deprecated operations could be derived.
+deprecated_operations: []
