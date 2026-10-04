@@ -52,7 +52,7 @@ tags:
 - Crypto Exchange
 - Digital Assets
 - Bitcoin
-- Financial-Services
+- Financial Services
 - Fintech
 - Trading
 - Custody
@@ -70,6 +70,7 @@ tags_raw:
 - Custody
 - MENA
 - Bahrain
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
